@@ -1,0 +1,23 @@
+body {
+  color: rgb(43, 41, 41);
+  font-family: normal 16px Arial, Helvetica, sans-serif
+  line-height: 1.6em;
+  background-color: rgb(155, 197, 199);
+}
+
+.black-border {
+  border: 5px solid rgb(37, 37, 37);
+}
+#green-background {
+  background-color: rgb(41, 212, 98);
+}
+.box-1 {
+  color: blue;
+}
+#plekje_boek {
+  color: rgb(23, 5, 63);
+  font-style: oblique;
+  font-size: 120%;
+  line-height: 1.4em;
+  background-color: rgb(21, 136, 139);
+}
